@@ -11,3 +11,6 @@
 Includes the full Python `Decimal` quantitative library (`us_quant_engine.py`), 3 standalone web terminals (US Risk, US Equities, US Treasuries), and commercial license.
 
 Get instant access via Stripe, Apple Pay, or PayPal: **[Buy US Quant & Treasuries Risk Engine ($149) ↗](https://app.lava.top/products/cadd8037-b156-4202-aa64-d2a94525a902)**
+
+## Commercial Source Code & Private Repo Access
+Instant read-only GitHub access: **[Buy APUM Markets Enterprise v5.1 ($249) ↗](https://lava.top8d6a6281-dad6-4790-899a-02256029097c)**
